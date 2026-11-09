@@ -1,5 +1,5 @@
 ## Greetings! 👋
-I'm glorpToro. I'm currently learning about AI/ML and cybersecurity. I'm interested in learning and pursuing UI/UX as a career.
+I'm glorpToro. I'm currently learning about AI/ML and cybersecurity. I'm interested in learning and pursuing UI/UX as a career. glorp!
 
 ### Tech Stack
 Python, Java
